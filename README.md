@@ -1,4 +1,4 @@
-# Hi there...
+# Hi there... 👋
 I am Mihai, a computer science student at the University Politehnica of Bucharest (UPB) and a passionate learner always seeking new opportunities.
 
 # Skills 💻
