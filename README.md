@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there...
+I am Mihai, a computer science student at the University Politehnica of Bucharest (UPB) and a passionate learner always seeking new opportunities.
 
-<!--
-**mihaiprodann/mihaiprodann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills 💻
+* Java
+* Web development (HTML, CSS, JavaScript)
+* PHP
+* C#
+* MySQL
 
-Here are some ideas to get you started:
+# About me 🌟
+I am constantly exploring new technologies and finding ways to apply my knowledge and skills to shape the future. I am open to collaborate and learn new things. My goal is to make a meaningful impact in the tech industry and shape the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on Github as mihaiprodann, and also on LinkedIn, where you can see my projects, skills, and experiences.
+
+Feel free to reach out to me, I am always happy to connect and chat about tech and opportunities! 🤝🚀
