@@ -14,3 +14,6 @@ I am constantly exploring new technologies and finding ways to apply my knowledg
 You can find me on Github as mihaiprodann, and also on LinkedIn, where you can see my projects, skills, and experiences.
 
 Feel free to reach out to me, I am always happy to connect and chat about tech and opportunities! 🤝🚀
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihaiprodann&show_icons=true&locale=en&layout=compact" alt="mihaiprodann" /></p>
+
