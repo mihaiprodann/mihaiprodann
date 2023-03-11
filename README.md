@@ -3,7 +3,7 @@ I am Mihai, a computer science student at the University Politehnica of Buchares
 
 # Skills 💻
 * Java
-* Web development (HTML, CSS, JavaScript)
+* Web development | ReactJS
 * PHP
 * C#
 * MySQL
