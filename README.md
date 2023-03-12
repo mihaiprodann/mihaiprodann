@@ -12,7 +12,6 @@ I am Mihai, a computer science student at the University Politehnica of Buchares
 I am constantly exploring new technologies and finding ways to apply my knowledge and skills to shape the future. I am open to collaborate and learn new things. My goal is to make a meaningful impact in the tech industry and shape the future.
 
 You can also check my resume ([on my github repo](https://github.com/mihaiprodann/mihaiprodann)).
-[I'm an inline-style link](https://www.google.com)
 
 
 You can find me on Github as mihaiprodann, and also on LinkedIn, where you can see my projects, skills, and experiences.
