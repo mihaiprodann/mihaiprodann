@@ -3,7 +3,6 @@ I am Mihai, a computer engineering student at the University Politehnica of Buch
 
 # Skills 💻
 * Java
-* Web development | ReactJS
 * PHP
 * C#
 * MySQL
