@@ -6,11 +6,11 @@ I am Mihai,
 ˣ web developer skilled in PHP, mainly Drupal CMS
 
 # Skills 💻
-* Java
 * PHP
 * HTML, CSS, JavaScript
 * SQL
 * Git
+* Java
 
 # About me 🌟
 I am constantly exploring new technologies and applying my knowledge and skills to shape the future. I am open to collaborating and learning new things.
