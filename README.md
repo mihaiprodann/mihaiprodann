@@ -1,6 +1,8 @@
 # Hi there... 👋
 I am Mihai,
+
 ˣ computer engineering student at the National University of Science and Technology Politehnica of Bucharest (UNSTPB)
+
 ˣ web developer skilled in PHP, mainly Drupal CMS
 
 # Skills 💻
